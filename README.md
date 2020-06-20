@@ -17,7 +17,7 @@ Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo d
   * Docker-compose - versão 1.26 - guia de instalação https://docs.docker.com/compose/install/
   * git(opcional)
 
-## Entrutura do projeto
+## Estrutura do projeto
  ```text
 docker-codeigniter/
 └── app/
