@@ -6,8 +6,7 @@ Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo d
 ## Tecnologias
    * PHP
    * MYSQL - Base de dados.
-   * Docker - Criação dos ambientes(Server, MYSQL, PHP).
-   * Nginx
+   * Docker - Criação dos ambientes(Server, MYSQL, PHP, Nginx).
    * Framework CodeIgniter 3
 
 ## Requisitos
