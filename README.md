@@ -7,7 +7,7 @@ Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo d
    * PHP
    * MYSQL - Base de dados.
    * Docker - Criação dos ambientes(Server, MYSQL, PHP).
-   * Ngix
+   * Nginx
    * Framework CodeIgniter 3
 
 ## Requisitos
@@ -16,6 +16,20 @@ Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo d
   * Docker - vesão 19+ - guia de instalação https://docs.docker.com/engine/install/
   * Docker-compose - versão 1.26 - guia de instalação https://docs.docker.com/compose/install/
   * git(opcional)
+
+## Entrutura do projeto
+ ```text
+docker-codeigniter/
+└── app/
+      ├── Pasta do projeto codeigniter
+└── msql/
+      └── initial_data/
+          ├── db_default.sql
+      ├── diagrama.mwb
+      ├── diagrama.png
+└── nginx/
+└── php/
+```
 
 ## Instalação e execução
 Baixe o pacote 
