@@ -4,10 +4,13 @@
 Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo de Tabela para exibição dos dados, com filtros e paginação.
 
 ## Tecnologias
-   * PHP
-   * MYSQL - Base de dados.
+   * PHP 7.2
+   * MYSQL - Base de dados. 5.7
    * Docker - Criação dos ambientes(Server, MYSQL, PHP, Nginx).
    * Framework CodeIgniter 3
+   * Jquery
+   * Bootstrap 3
+   * CSS
 
 ## Requisitos
 - É necessário ter instalado os seguintes modulos:
