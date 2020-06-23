@@ -1,7 +1,7 @@
 # Projeto em ambiente Docker e o framework Codeigniter
 
 
-Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo de Tabela para exibição dos dados, com filtros, paginação e tabela é responsiva.
+Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo de Tabela para exibição dos dados, com filtros, paginação e a tabela é responsiva.
 
 ## Tecnologias
    * PHP 7.2
