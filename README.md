@@ -22,13 +22,13 @@ Esse projeto é um exemplo de como usar docker e CodeIgniter, temos um exemplo d
 ## Estrutura do projeto
  ```text
 docker-codeigniter/
-└── app/
-      ├── Pasta do projeto codeigniter
-└── msql/
-      └── initial_data/
-          ├── db_default.sql
-      ├── diagrama.mwb
-      ├── diagrama.png
+├── app/
+|      ├── Pasta do projeto codeigniter
+|── msql/
+|      ├── initial_data/
+|      |    ├── db_default.sql
+|      ├── diagrama.mwb
+|      ├── diagrama.png
 └── nginx/
 └── php/
 ```
