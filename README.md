@@ -43,7 +43,7 @@ Baixe o pacote
 3. Rode `sudo docker-compose up` para criar/iniciar os ambientes, aguarde até que apareça os serviços em execução.
 5. Pronto só é acessar o link `http://localhost:8080/` para visualizar a aplicação rodando.
 6. Se tudo estiver funcionando deverá apararecer essa tela
-![alt text](https://github.com/HENRIQUELOBO/docker-codeigniter/blob/master/exemple.png "VEJA")
+![ScreenShot](https://github.com/HENRIQUELOBO/docker-codeigniter/blob/master/exemple.png "VEJA")
 7. Os dados que foram inseridos são antigos, então é recomendado que selecione um período grande.
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
