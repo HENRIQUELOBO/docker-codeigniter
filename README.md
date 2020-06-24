@@ -1,3 +1,7 @@
+![GitHub language count](https://img.shields.io/github/languages/count/henriquelobo/docker-codeigniter)
+![GitHub top language](https://img.shields.io/github/languages/top/HENRIQUELOBO/docker-codeigniter)
+![GitHub](https://img.shields.io/github/license/HENRIQUELOBO/docker-codeigniter)
+![GitHub All Releases](https://img.shields.io/github/downloads/henriquelobo/docker-codeigniter/total)
 # :computer: Projeto em ambiente Docker e o framework Codeigniter
 
 
